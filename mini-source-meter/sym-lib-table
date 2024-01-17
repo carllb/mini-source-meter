@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mini-source-lib")(type "KiCad")(uri "${KIPRJMOD}/mini-source-lib.kicad_sym")(options "")(descr ""))
+)

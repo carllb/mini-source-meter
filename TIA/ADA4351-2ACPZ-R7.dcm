@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4351-2ACPZ-R7
+D Small, Dual-Channel, Precision, Programmable-Gain, Transimpedance Amplifiers (PGTIAs)
+K
+F https://www.analog.com/ADA4351-2/datasheet
+$ENDCMP
+#
+#End Doc Library
